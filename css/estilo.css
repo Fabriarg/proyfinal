@@ -1,0 +1,18 @@
+body {background-color: lightcyan}
+header {border: 1px solid lightblue ;background: url(../imagen/mosaico.png); background-attachment: fixed; height: 20vh}
+
+ .encabezado {color: black; font-size: xx-large; font-style: italic; width: 90vw; height: 90vh; text-align: center; border: 1px; padding: 8px}
+div{width: 50%; border: 1px dotted #f00; padding: 8px; margin: auto;}
+center{margin:16px 0;}
+
+ .navegacion {font-style: italic; font-size: large; display: flex; align-items: stretch;; justify-content: space-between; background-color: lightblue; text-align: center; width: 100vw; height: 10vh;}
+ .presentacion1 {align-content: center; font-style: italic; font-size: xx-large; background-color: inherit; background-color: lightskyblue}
+ .presentacion {font-style: italic; font-size: xx-large; align-items: flex-start; background-color: lightblue;}
+ .ofrecemos1 {align-content: center; font-style: italic; font-size: xx-large; background-color: inherit; background-color: lightskyblue}
+ .ofrecemos {font-style: italic; font-size: xx-large; align-items: flex-start; background-color: lightblue;}
+ .estamos1 {align-content: center; font-style: italic; font-size: xx-large; background-color: inherit; background-color: lightskyblue}
+ .estamos {font-style: italic; font-size: xx-large; align-items: flex-start; background-color: lightblue;}
+ .wpp {position: fixed; width: 55px; height: 55px; line-height: 55px; bottom: 30px; right: 30px; background: #0df053; background-image: url(imagen/wpp.png);color: #fff; border-radius: 50px; text-align: center; font-size: 30px; box-shadow: 0px 1px 10px, rgba(0,0,0,0.3); z-index: 100;}
+ .wpp:hover {text-decoration: none; color: #0df053; background: #fff}
+
+footer {border: 1px solid lightblue; text-align: center;}
